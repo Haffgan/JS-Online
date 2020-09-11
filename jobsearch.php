@@ -279,7 +279,7 @@ h2 {
   </div>
   
   <div class="col-12">
-  <image src="search crop.jpg"></image>
+  <image src="search_crop.jpg"></image>
   </div>
   </body>
   </html>

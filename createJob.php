@@ -320,7 +320,7 @@ fieldset {
 </div>
 
 <div class="col-12">
-<image src="city crop.jpg"></image>
+<image src="city_crop.jpg"></image>
 </div>
 </body>
 </html>
