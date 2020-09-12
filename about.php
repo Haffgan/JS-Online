@@ -190,7 +190,7 @@ fieldset {
     <div class="col-12 menu">
       <a href="homepage.php" > Home Page </a> 
     <a href="jobsearch.php" > Job Search </a> 
-   <a href="Employer Page.php" > Employer Page </a> 
+   <a href="EmployerPage.php" > Employer Page </a> 
  
    <a href="Feedback.php" > Feedback </a> 
    <a href="registration.php" > Employer Registration </a> 

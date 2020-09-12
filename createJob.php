@@ -82,7 +82,7 @@ if (!patternCN.test(CompN))
 
 
     function SetColor (x){
-      document.getElementById(x).style.backgroundColor = "yellow";
+      document.getElementById(x).style.backgroundColor = "rgb(255,255,204)";
     }
   
     function ChangeColor (x){
@@ -282,7 +282,7 @@ fieldset {
     <div class="col-12 menu">
       <a href="homepage.php" > Home Page </a> 
     <a href="jobsearch.php" > Job Search </a> 
-   <a href="Employer Page.php" > Employer Page </a> 
+   <a href="EmployerPage.php" > Employer Page </a> 
    <a href="about.php" > About Us</a> 
    <a href="Feedback.php" > Feedback </a> 
    <a href="registration.php" > Registration </a> 
@@ -320,7 +320,7 @@ fieldset {
 </div>
 
 <div class="col-12">
-<image src="city_crop.jpg"></image>
+<image src="search_crop.jpg"></image>
 </div>
 </body>
 </html>

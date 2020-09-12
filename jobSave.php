@@ -18,7 +18,7 @@ $name = $_SESSION ['username'];
 //$b = $_GET['un'];
 //$g = $_GET['f'];
 
-$con= mysqli_connect("localhost","root","", "jsonline");
+$con= mysqli_connect("sql205.epizy.com", "epiz_26717669", "IwqVkjNlyIHj6", "epiz_26717669_jsonline");
 //$result = mysqli_query($con, "SELECT * employer.username, employer.name FROM employer WHERE employer.username = '$name'");
 //$row =mysqli_fetch_array($result); // записал результат по таблиуе в переменную
 //$us_nam = $row [5];

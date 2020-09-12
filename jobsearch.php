@@ -16,7 +16,7 @@ if (isset($_SESSION['username'])) {
 
 
     function SetColor (x){
-      document.getElementById(x).style.backgroundColor = "yellow";
+      document.getElementById(x).style.backgroundColor = "rgb(255,255,204)";
     }
   
     function ChangeColor (x){
@@ -239,7 +239,7 @@ h2 {
     <div class="col-12 menu">
       <a href="homepage.php" > Home Page </a> 
  
-   <a href="Employer Page.php" > Employer Page </a> 
+   <a href="EmployerPage.php" > Employer Page </a> 
    <a href="about.php" > About Us</a> 
    <a href="Feedback.php" > Feedback </a> 
    <a href="registration.php" > Registration </a> 

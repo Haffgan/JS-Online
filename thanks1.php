@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html>
- <?php
- session_start ();
-if (isset($_SESSION['username'])) {
-	echo "  You are logged in as: " . $_SESSION['username'];	
-	} 
-	else {
-	echo "You are not logged in!";	
-	}
-?>
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -94,28 +84,6 @@ body {
   background-color:gray;
 }
 
-
-.menu2 { overflow: hidden;
-  background-color: rgb(255, 255, 255);
-  }
-
-
-.menu2 a {
-
-  float: center;
-  display: block;
-  
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 18px;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
-}
-
-.menu2 a:hover {
-  background-color:rgb(196, 196, 196);
-}
 .reg
 {
   overflow: hidden;
@@ -151,11 +119,6 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-.describtion {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
-font-size: 28px;
-text-align: right;
-}
 
 .table {
 font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
@@ -180,78 +143,54 @@ th:first-child, td:first-child {
 text-align: center;
 }
 
-.btn {
-     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
-     font-size: 14px;
-     display: inline-block; 
-     background: gray; 
-     color: #fff; 
-     padding: 1px 16px; 
-     text-decoration: none; 
-     border-radius: 3px; 
-     text-align: center;
-    }
+
 
 </style>
 </head>
 <body>
 
- <?php
-	
-	if (!isset($_SESSION['username']))
-	{
-	header("location:login.php");
-	exit;
-	}
-		
-
-  ?>
-
 <div class="header">
   
   <div class="col-1 logo">
     <a href="homepage.php">
-    <p><image src="Logo.png">
+    <p> <image src="Logo.png"</p>
   </div>
 
   <div class="reg col-10">
-    <a href="Employer Page.php"></a>
     <h1 style="text-align:center;color: #ffffff" > 
-      Employer Page </h1>
-  </div>
-  <div class="col-1 logo">
-    <p><image src="Logo.png">
-  </div>
-  <div class="row">
-    <div class="col-12 menu">
-      <a href="homepage.php" > Home Page </a> 
-    <a href="jobsearch.php" > Job Search </a> 
- 
-   <a href="about.php" > About Us</a> 
-   <a href="Feedback.php" > Feedback </a> 
-   <a href="registration.php" > Registration </a> 
-   <a href="Logout.php" > Logout </a> 
-   
-    </div>
+      Well Done! </h1>
 
+  </div>
+
+  <div class="col-1 logo">
+    <p> <image src="Logo.png"</p>
+  </div>
   <div class="row">
-    <div class="col-4 describtion">
-      Please select the option:
-    </div>
-    <div class="col-4 menu2">
-         <a href="createJob.php" class="btn">	Add Advertisement</a>
-      <a href="deleteJob.php" class="btn">	Delete Job</a>
-    </div>
-    <div class="col-4"></div>
-<div class="col-12">
-  <a> <image src="CEO.jpg"</a> </div>
-  
-</div>
+ 
+  <div class="col-12">
+    <p> <image src="thank.jpg"</p></image>  
+
+  </div>
+
+</head>
+
+  </body>
 </fieldset>
 </form>
 </div>
   
+ <div class="col-12">
+  <h1 style="text-align:center;font-size: 12px;" > 
+
+</div> 
+  
+<div class="col-12 bot">
+  <h1 style="text-align:center;font-size: 12px;" > 
+
+
+  <a href="homepage.php" > Back to Homepage </a> 
+</div>
 
 
 </body>
-</html>    
+</html>

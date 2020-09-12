@@ -14,7 +14,7 @@ $fee = $_POST ['cq'];
 //$b = $_GET['un'];
 //$g = $_GET['f'];
 
-$con= mysqli_connect("localhost","root","", "jsonline");
+$con= mysqli_connect("sql205.epizy.com", "epiz_26717669", "IwqVkjNlyIHj6", "epiz_26717669_jsonline");
 
 mysqli_query($con , "INSERT into feedback (name, email, message) VALUES ('{$nam}','{$ema}','{$fee}');"); 
 mysqli_close($con);

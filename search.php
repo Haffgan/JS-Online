@@ -292,7 +292,7 @@ fieldset {
   <div class="reg col-10">
     <a href="Employer Page.php"></a>
     <h1 style="text-align:center;color: rgb(95, 95, 95)" > 
-      Employer Registration Form </h1>
+      Search Results: </h1>
   </div>
   <div class="col-1 logo">
     <p> <image src="Logo.png"</p>
@@ -301,7 +301,7 @@ fieldset {
     <div class="col-12 menu">
       <a href="homepage.php" > Home Page </a> 
     <a href="jobsearch.php" > Job Search </a> 
-   <a href="Employer Page.php" > Employer Page </a> 
+   <a href="EmployerPage.php" > Employer Page </a> 
    <a href="about.php" > About Us</a> 
    <a href="Feedback.php" > Feedback </a> 
    <a href="Logout.php" > Logout </a> 
@@ -324,7 +324,7 @@ $x = $_GET['y'];
 $z = $_GET['z'];
 $t = $_GET['c'];
 
-	$connection = mysqli_connect("localhost","root","","jsonline");
+	$connection = mysqli_connect("sql205.epizy.com", "epiz_26717669", "IwqVkjNlyIHj6", "epiz_26717669_jsonline");
 
 	$result = mysqli_query($connection, "Select * FROM job, employer WHERE JobTitle = '$x' AND address = '$t' AND businessArea = '$z';") or die(mysqli_error($connection));
 	

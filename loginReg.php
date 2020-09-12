@@ -9,7 +9,7 @@
 	$x = $_POST ['log'];
     $y = $_POST ['pas'];
 	
-	$con = mysqli_connect ("localhost", "root", "", "jsonline");
+	$con = mysqli_connect ("sql205.epizy.com", "epiz_26717669", "IwqVkjNlyIHj6", "epiz_26717669_jsonline");
 	$result = mysqli_query ($con, "SELECT * FROM employer WHERE username = '$x' AND password = '$y'");
 	
 		if (mysqli_num_rows ($result) == 1 )

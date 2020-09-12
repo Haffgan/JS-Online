@@ -187,7 +187,7 @@ color: #666666;
   <div class="col-12 menu">
  
   <a href="jobsearch.php" > Job Search </a> 
- <a href="Employer Page.php" > Employer Page </a> 
+ <a href="EmployerPage.php" > Employer Page/Login </a> 
  <a href="about.php" > About Us</a> 
  <a href="Feedback.php" > Feedback </a> 
  <a href="registration.php" > Registration </a> 

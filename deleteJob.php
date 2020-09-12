@@ -197,7 +197,7 @@ fieldset {
     <div class="col-12 menu">
       <a href="homepage.php" > Home Page </a> 
     <a href="jobsearch.php" > Job Search </a> 
-   <a href="Employer Page.php" > Employer Page </a> 
+   <a href="EmployerPage.php" > Employer Page </a> 
    <a href="about.php" > About Us</a> 
    <a href="Feedback.php" > Feedback </a> 
    <a href="registration.php" > Registration </a> 
@@ -207,23 +207,12 @@ fieldset {
   <div class="col-3">
  
   </div>
-<div class="col-6">
+<div class="col-6" style = "text-align: center">
 <form onsubmit="return checkform()">
 <fieldset>
 <legend>
-  Select job you want to delete:
-</legend>
-<input type="checkbox" name="Business status" value="Government Sector" checked="checked" />
-<small>Accountant (Job No 14-2344) </small><br />
-<input type="checkbox" name="Business status" value="Private Sector" /> <small>Casual Assistant (Job No 14-2345)</small><br />
-<input type="checkbox" name="Business status" value="Private Sector" /> <small>Senior Leader (Job No 14-2411)</small><br />
-<input type="checkbox" name="Business status" value="Private Sector" /> <small>Support Workers (Job No 14-2421)</small><br />
-<input type="checkbox" name="Business status" value="Government Sector" checked="checked" />
-<small> Accountant (Job No 14-2344) </small><br />
-<input type="checkbox" name="Business status" value="Private Sector" /> <small>Casual Assistant (Job No 14-2518)</small><br />
-<input type="checkbox" name="Business status" value="Private Sector" /> <small>Senior Leader (Job No 14-2521)</small><br />
-<input type="checkbox" name="Business status" value="Private Sector" /> <small>Support Workers (Job No 14-2577) </small><br />
-<input required type="submit" value=" Delete ">
+  Under construction. Sorry!
+
 </fieldset>
 </form>
 </div>

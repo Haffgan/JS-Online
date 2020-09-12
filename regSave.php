@@ -14,7 +14,7 @@ $v = $_GET['d'];
 $b = $_GET['un'];
 $g = $_GET['f'];
 
-$con= mysqli_connect("localhost","root","", "jsonline");
+$con= mysqli_connect("sql205.epizy.com", "epiz_26717669", "IwqVkjNlyIHj6", "epiz_26717669_jsonline");
 
 mysqli_query($con , "INSERT into employer (name, businessArea, address, phoneNumber, email, username, password) VALUES ('{$s}','{$t}','{$x}','{$c}','{$v}','{$b}','{$g}');"); 
 mysqli_close($con);
