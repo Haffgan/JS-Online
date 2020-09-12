@@ -32,7 +32,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/4.jpg)
 
 
-## 5) 5) Now, when you authorized you can chose the option of Creation new Job, please press the “Add Advertisement” button.
+## 5) Now, when you authorized you can create the new Job, please press the “Add Advertisement” button.
 
 
 ![](ScrShotsForReadme/5.jpg)
