@@ -2,7 +2,7 @@
 
 Welcome to my “JS Online” WebSite. The main purpose of which is Job search. So Employers can register their organizations here and create the jobs and employers can search them. All is simple like that. Here is brief guide of using the WebSite:
 
-## 1) If you are Organization, please create your own account by pressing on the Registration button
+## 1) If you are an Organization, please create your own account by pressing on the Registration button
 
 
 ![](ScrShotsForReadme/1.jpg)
@@ -32,7 +32,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/4.jpg)
 
 
-## 5) After registration is over you can Login by using your Personal Data
+## 5) 5) Now, when you authorized you can chose the option of Creation new Job, please press the “Add Advertisement” button.
 
 
 ![](ScrShotsForReadme/5.jpg)
@@ -50,7 +50,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/7.jpg)
 
 
-## 8) If you are Employee and want to find the certain Job, you can use the “Job Search” button.
+## 8) If you are an Employee and want to find the certain Job, you can use the “Job Search” button.
 
 
 ![](ScrShotsForReadme/8.jpg)
