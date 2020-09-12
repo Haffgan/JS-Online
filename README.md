@@ -20,7 +20,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/2.5.jpg)
 
 
-## 3) After registration is over you can Login by using your Personal Data
+## 3) When the registration is over you can Login by using your Personal Data
 
 
 ![](ScrShotsForReadme/3.jpg)
