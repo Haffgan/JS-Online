@@ -174,6 +174,9 @@ color: #666666;
   <div class="col-10">
     <h1 style="text-align:center;" > 
       JS Online - jobs inhabit here</h1>
+	  
+	  <p style="text-align:center;" > 
+      Please before the start check this <a href="https://github.com/Haffgan/JS-Online/blob/master/README.md" > README </a> file</p>
   </div>
   
   <div class="col-1 logo">
@@ -187,7 +190,7 @@ color: #666666;
   <div class="col-12 menu">
  
   <a href="jobsearch.php" > Job Search </a> 
- <a href="Employer Page.php" > Employer Page </a> 
+ <a href="EmployerPage.php" > Employer Page/Login </a> 
  <a href="about.php" > About Us</a> 
  <a href="Feedback.php" > Feedback </a> 
  <a href="registration.php" > Registration </a> 

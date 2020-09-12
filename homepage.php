@@ -174,6 +174,9 @@ color: #666666;
   <div class="col-10">
     <h1 style="text-align:center;" > 
       JS Online - jobs inhabit here</h1>
+	  
+	  <p style="text-align:center;" > 
+      Please before the start check this <a href="https://github.com/Haffgan/JS-Online/blob/master/README.md" > README </a> file</p>
   </div>
   
   <div class="col-1 logo">
