@@ -8,7 +8,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/1.jpg)
 
 
-## 2) Type in your Organization details in this table. All forms have validation parameters, so please remember to use “real-like” data. Please remember Username and Password
+## 2) Type in your Organization details in this table. All forms have validation parameters, so please remember to use “real-like” data. Remember your Username and Password
 
 
 ![](ScrShotsForReadme/2.jpg)
@@ -38,7 +38,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/5.jpg)
 
 
-## 6) Now you can create your new Job Advertisement. Please remember that all forms have validation parameters, so please remember to use “real-like” data.
+## 6) Now you can create your new Job Advertisement. Please remember that all forms have validation parameters, so please use “real-like” data.
 
 
 ![](ScrShotsForReadme/6.jpg)
