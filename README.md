@@ -62,7 +62,7 @@ Welcome to my “JS Online” WebSite. The main purpose of which is Job search. 
 ![](ScrShotsForReadme/9.jpg)
 
 
-## 10) If out system has the Job for you it will show you that.
+## 10) If the system has the Job for you it will show you that.
 
 
 ![](ScrShotsForReadme/10.jpg)
