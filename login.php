@@ -240,7 +240,7 @@ Please insert your login and password below:<br />
 <input type="password"required size="35" maxlength="18"placeholder="PASSWORD"id ="pas" name ="pas" onfocus="SetColor('pas')" onblur="ChangeColor('pas')"> <small>Password </small><br />
 
 <input type="submit" value=" Login "><br />
-<a href="registration.php" style="font-size:11px"> Click here to registrate new User </a>
+<a href="registration.php" style="font-size:11px"> Click here to register new User </a>
 </fieldset>
 </form>
 </div>
